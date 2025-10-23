@@ -20,3 +20,15 @@ Esta combinação é rara e exige um setup manual de componentes cruciais.
 * `pacman-pkgs.txt`: Lista de pacotes dos repositórios oficiais.
 * `aur-pkgs.txt`: Lista de pacotes instalados via AUR (incluindo `yay` e `system76-power`).
 * `com.system76.PowerDaemon.service`: Arquivo essencial para a ativação do serviço de energia.
+
+## 🛠️ Como Instalar e Restaurar o Setup (Guia Rápido)
+
+Este guia assume que você está em uma instalação nova do Arch Linux.
+
+### 1. Clonar o Repositório
+
+Primeiro, clone este repositório para sua pasta pessoal:
+
+```bash
+git clone [https://github.com/Raphael-Assis/Arch-cosmic-dotfiles.git](https://github.com/Raphael-Assis/Arch-cosmic-dotfiles.git)
+cd Arch-cosmic-dotfiles

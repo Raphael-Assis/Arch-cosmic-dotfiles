@@ -1,5 +1,7 @@
 # 🚀 Raphael-Assis/Arch-cosmic-dotfiles 🚀
 
+![Screenshot do Setup COSMIC Arch](screenshots/cosmic-arch-rice.png) 
+
 ## Setup de Dotfiles Pioneiro: COSMIC DE no Arch Linux
 
 Este repositório contém as configurações (dotfiles) para o ambiente de desktop **COSMIC** (em desenvolvimento pela System76) rodando de forma estável no **Arch Linux**.

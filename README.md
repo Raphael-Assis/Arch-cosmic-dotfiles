@@ -8,9 +8,10 @@ Esta combinação é rara e exige um setup manual de componentes cruciais.
 
 ## Por que este Setup é Valioso?
 
-* **Pioneirismo:** Um dos primeiros setups organizados e funcionais de dotfiles para o COSMIC DE no Arch.
-* **Gerenciamento de Energia Corrigido:** Inclui a solução para o problema de dreno rápido de bateria em laptops (como o Ideapad), que exige o pacote `system76-power` do AUR e a ativação manual do serviço.
-* **Base de Restauração:** Permite que outros usuários (ou você mesmo em uma futura instalação) restaurem rapidamente o ambiente.
+* **Pioneirismo Arch + COSMIC:** É um dos primeiros setups organizados de dotfiles para o COSMIC DE rodando de forma estável no Arch.
+* **Design de Painel Otimizado:** O layout do painel superior é puramente funcional e minimalista, utilizando um design de dock centralizado (apenas Data/Hora) e mantendo as áreas de trabalho e lançadores no canto esquerdo para um fluxo de trabalho limpo.
+* **Segmentação Lógica:** O painel é dividido em três segmentos (Inicial, Central, Final) para máxima organização, facilitando o acesso rápido a áreas de trabalho, lançadores e a bandeja de sistema (Som, Bluetooth, Notificações).
+* **Gerenciamento de Energia Corrigido:** Inclui o pacote `system76-power` e o arquivo de serviço necessário (resolvendo o erro de "Gestor de energia não encontrado" e o problema de dreno rápido de bateria em laptops).
 
 ## O que está incluído?
 

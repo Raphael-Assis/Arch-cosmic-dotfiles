@@ -1,0 +1,4 @@
+google-chrome
+system76-power
+yay
+yay-debug
